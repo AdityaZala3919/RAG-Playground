@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "category": "tech",
+    "text": "Artificial intelligence is transforming industry."
+  },
+  {
+    "id": 2,
+    "category": "sport",
+    "text": "Football is the most popular sport in the world."
+  },
+  {
+    "id": 3,
+    "category": "tech",
+    "text": "Neural networks are a subset of machine learning."
+  },
+  {
+    "id": 4,
+    "category": "cooking",
+    "text": "Italian pasta recipes are easy to follow."
+  },
+  {
+    "id": 5,
+    "category": "sport",
+    "text": "Olympics bring nations together through sportsmanship."
+  }
+]
